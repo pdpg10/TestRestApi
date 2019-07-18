@@ -1,0 +1,6 @@
+const val BASE_URL = "http://dummy.restapiexample.com/"
+const val GET_EMPLOYEE = "api/v1/employees"
+const val CREATE_EMPLOYEE = "api/v1/create"
+const val GET_EMPLOYEE_BY_ID = "api/v1/employee/"
+const val UPDATE_EMPLOYEE = "api/v1/update/"
+const val DELETE_EMPLOYEE = "api/v1/delete/"
